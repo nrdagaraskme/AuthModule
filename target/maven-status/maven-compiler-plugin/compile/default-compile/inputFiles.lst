@@ -1,0 +1,17 @@
+/projects/AuthModule/src/main/java/com/locus/auth/ActionType.java
+/projects/AuthModule/src/main/java/com/locus/AppLauncher.java
+/projects/AuthModule/src/main/java/com/locus/security/TokenAuthenticationFilter.java
+/projects/AuthModule/src/main/java/com/locus/auth/UserRepository.java
+/projects/AuthModule/src/main/java/com/locus/config/SecurityConfig.java
+/projects/AuthModule/src/main/java/com/locus/security/User.java
+/projects/AuthModule/src/main/java/com/locus/auth/UserData.java
+/projects/AuthModule/src/main/java/com/locus/security/TokenCreationService.java
+/projects/AuthModule/src/main/java/com/locus/security/LoginController.java
+/projects/AuthModule/src/main/java/com/locus/security/TokenService.java
+/projects/AuthModule/src/main/java/com/locus/auth/CustomUserDetailsService.java
+/projects/AuthModule/src/main/java/com/locus/security/UserService.java
+/projects/AuthModule/src/main/java/com/locus/security/TokenAuthenticationProvider.java
+/projects/AuthModule/src/main/java/com/locus/auth/CustomUserDetails.java
+/projects/AuthModule/src/main/java/com/locus/exception/UserNotFoundException.java
+/projects/AuthModule/src/main/java/com/locus/auth/User.java
+/projects/AuthModule/src/main/java/com/locus/success/AuthenticationSuccessFilter.java
